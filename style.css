@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+main img {
+    border-top: solid 9px yellow;
+    border-bottom: solid 9px darkblue;
+    border-left: solid 9px darkblue;
+    border-right: solid 9px yellow;
+}
+
+main {
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+p {
+    border-top: solid 9px yellow;
+    border-bottom: solid 9px darkblue;
+
+}
+
+h1 {
+    border: 5px solid yellow;
+    padding: 5px 5px 5px 5px;
+}
+
+main {
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+a {
+    border: 5px ridge blue;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
